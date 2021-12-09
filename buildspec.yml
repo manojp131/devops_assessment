@@ -36,6 +36,7 @@ phases:
   build:
     commands:
       # - command
+      # - command
   #post_build:
     #commands:
       # - command
